@@ -24,7 +24,7 @@ A self-contained, fictional e-commerce dataset for stress-testing WordPress and 
 Image URLs in both files point at this repo:
 
 ```
-https://raw.githubusercontent.com/nickhamze/wonders-oddities-assets/main/<filename>
+https://raw.githubusercontent.com/RegionallyFamous/wonders-oddities/main/<filename>
 ```
 
 No find-and-replace or upload-to-media-library step required.

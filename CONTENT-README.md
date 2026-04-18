@@ -70,7 +70,7 @@ The 3 authors will remain — delete them manually under **Users** if you want a
 ## Notes
 
 - **Site URL in content**: links within post bodies use relative paths (`/journal/`, `/about/`) so they resolve on whatever domain you import into.
-- **Image URLs**: point at `raw.githubusercontent.com/nickhamze/wonders-oddities-assets/main/wonders-{page,post}-{slug}.png`. All 28 verified as 200-OK at the time of delivery.
+- **Image URLs**: point at `raw.githubusercontent.com/RegionallyFamous/wonders-oddities/main/wonders-{page,post}-{slug}.png`. All 28 verified as 200-OK at the time of delivery.
 - **Yoast SEO**: every page/post includes Yoast meta (`_yoast_wpseo_title`, `_yoast_wpseo_metadesc`, `_yoast_wpseo_focuskw`). If Yoast isn't installed, these fields are harmless stored custom fields.
 - **Sticky posts**: 2 posts are marked sticky (`Welcome to Wonders & Oddities`, `Year One, Abridged`). Any theme that respects the sticky flag should pin them at the top of the blog.
 - **Publish dates**: posts are backdated across Jan–April 2026 so the blog archive has entries in multiple months. The most recent post is the sticky Welcome (2026-04-15).
