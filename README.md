@@ -38,7 +38,7 @@ Simple, variable (size/color variations), grouped (bundles), external (affiliate
 Multiple authors with bios. Nested categories (parent → child) and a flat tag list. Sticky posts. Post formats from short utility posts to long editorial essays. Threaded comments (1–2 levels deep). Featured images on every page and post. Yoast SEO meta. Custom fields (`_wo_reading_time`). Backdated publish times across multiple months for archive/pagination testing.
 
 ### Site-wide
-Two navigation menus (header + footer) with a mix of page links and a custom link (`/shop/`). Privacy Policy, FAQ, Contact, Shipping & Returns pages. A home page with a hero section, featured products block reference, and customer quote. A Lookbook page with a gallery block.
+Two navigation menus (header + footer) with a mix of page links and a custom link (`/shop/`). Privacy Policy, FAQ, Contact, Shipping and Returns pages. A home page with a hero section, featured products block reference, and customer quote. A Lookbook page with a gallery block.
 
 ## Cleanup
 

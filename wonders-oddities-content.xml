@@ -479,7 +479,7 @@
     <wp:attachment_url><![CDATA[https://raw.githubusercontent.com/RegionallyFamous/wonders-oddities/main/wonders-page-lookbook.png]]></wp:attachment_url>
   </item>
   <item>
-    <title><![CDATA[Shipping &amp; Returns]]></title>
+    <title><![CDATA[Shipping and Returns]]></title>
     <link>https://wonders-oddities.example/shipping-returns/</link>
     <pubDate>Fri, 10 Apr 2026 10:00:00 +0000</pubDate>
     <dc:creator><![CDATA[percival-aftermath]]></dc:creator>
@@ -512,7 +512,7 @@
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Shipping &amp; Returns — Wonders & Oddities]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Shipping and Returns — Wonders & Oddities]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -524,7 +524,7 @@
     </wp:postmeta>
   </item>
   <item>
-    <title><![CDATA[Shipping &amp; Returns hero]]></title>
+    <title><![CDATA[Shipping and Returns hero]]></title>
     <link>https://raw.githubusercontent.com/RegionallyFamous/wonders-oddities/main/wonders-page-shipping-returns.png</link>
     <pubDate>Fri, 10 Apr 2026 10:00:00 +0000</pubDate>
     <dc:creator><![CDATA[percival-aftermath]]></dc:creator>
@@ -3165,7 +3165,7 @@
     </wp:postmeta>
   </item>
   <item>
-    <title><![CDATA[Shipping & Returns]]></title>
+    <title><![CDATA[Shipping and Returns]]></title>
     <link>https://wonders-oddities.example/?p=1094</link>
     <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     <dc:creator><![CDATA[percival-aftermath]]></dc:creator>

@@ -14,7 +14,7 @@ A WXR (WordPress eXtended RSS) file that imports pages, posts, authors, categori
 | Entity | Count |
 | --- | --- |
 | Authors | 3 (Brenda Ash, Carl Lunar, Percival Aftermath) |
-| Pages | 8 (Home, About, Journal, Lookbook, Shipping & Returns, FAQ, Contact, Privacy Policy) |
+| Pages | 8 (Home, About, Journal, Lookbook, Shipping and Returns, FAQ, Contact, Privacy Policy) |
 | Posts | 20 (2 sticky, 18 regular — mix of how-tos, editorial, interviews, reviews, seasonal) |
 | Categories | 7 (nested: Curiosities → Hole-ology, Curiosities → Sock Affairs, Moods & Feelings, Forbidden Snacks, Behind the Counter, Guides & How-Tos) |
 | Tags | 20 |
